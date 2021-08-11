@@ -1,6 +1,6 @@
 ![ScreenShoot Apps](banner.png?raw=true)
 
-## feroodev
+## Ferodev
 Developing apps with reskin ability
 
 ## Colaborator
